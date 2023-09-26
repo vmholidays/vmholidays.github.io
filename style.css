@@ -1,0 +1,40 @@
+body {
+  background: rgb(34, 99, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 99, 195, 1) 0%,
+    rgba(181, 45, 253, 1) 100%
+  );
+}
+.title {
+  text-align: center;
+}
+.step {
+  color: blueviolet;
+}
+.carousel {
+  margin-bottom: 1em;
+}
+.carousel-inner {
+  width: 100%;
+}
+.carousel-item {
+  width: 100%;
+}
+.container {
+  text-align: center;
+}
+.card-container {
+  border: none;
+  background-color: transparent;
+  margin-left: 0em;
+  margin-right: 0em;
+}
+.card {
+  border: none;
+  background-color: transparent;
+  margin-bottom: 1em;
+}
+.card-title {
+  margin-left: 1em;
+}
